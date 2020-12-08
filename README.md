@@ -5,4 +5,6 @@ This application is a covidapp proof-of-test-result and proof-of-vaccination-bui
 
 ### Demo App
 
+https://atefajmal27.github.io/covidapp/frontend/index.html
+
 Click [here](https://jcurvone.github.io/covidapp/frontend/index.html) to launch the COVID application. #covidapp
